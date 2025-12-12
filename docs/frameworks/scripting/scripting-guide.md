@@ -14,7 +14,6 @@ Story-Bakery 스크립팅 프레임워크는 그룹 전반의 코드 일관성�
 - [naming-style](./naming-style.md)는 클래스, 메서드, 인스턴스 속성 등 요소 별 네이밍 규칙과 접두사/접미사 사용 기준을 제공합니다.
 - [object-oriented-style](./object-oriented-style.md)는 모듈 간 책임 분리, 상속과 조합 사용 원칙, 객체 생명주기 관리 패턴을 안내합니다.
 - [document-based-comment](./document-based-comment.md)는 주석 기반 문서화 흐름과 API 문서 주석 작성 규칙을 설명합니다.
-- [vide-kit](../vide/vide-kit.md)는 Vide 기반 UI 컴포넌트를 작성할 때 필요한 구조와 태그 규칙을 정리합니다.
 - [vide-component-design](../vide/component-design.md)는 Vide 컴포넌트의 상속/조합 선택 기준과 설계 원칙을 요약합니다.
 - [ui-style](../ui-style.md)은 UI가 따라야 하는 시각적 제약과 상호작용 기본값을 정의하여, 스크립트가 UI 상태를 변경할 때 지켜야 할 기준을 제공합니다.
 - [vide-component-documentation](../vide/component-documentation.md)는 videKit 컴포넌트의 문서 주석 작성 흐름과 `@tag vide` 적용 규칙을 명시합니다.

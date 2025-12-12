@@ -70,7 +70,7 @@ return FooThing
 - 일반적으로 **camelCase**를 사용합니다.
 - **PascalCase**는 Roblox 서비스나, 외부/내부 모듈을 require했을 때 그 반환값을 담는 변수명에 씁니다.
 - 단, **외부(서드파티) 패키지**를 require할 때는 해당 패키지에서 요구하는 네이밍을 존중하기 위해 변수명을 패키지의 스타일에 맞춰 사용할 수 있습니다. 예를 들어 Vide 패키지가 소문자 `vide`를 기본으로 사용한다면 `local vide = require("@vide")`처럼 작성해도 됩니다. 이 예외는 외부 패키지에만 적용되며, Roblox 서비스나 내부 모듈에는 기본 규칙을 그대로 적용합니다.
-- 속성값처럼, 그때 그때 변하는 값을 저장한 **지역 변수**는 **camelCase** 로 작성합니다. 여기서 말하는 속성은 Roblox 인스턴스의 `Value`와 같이 수시로 바뀌는 값으로, 앞단 “테이블의 속성” 항목에서 정의한 `PascalCase` 프로퍼티 규칙과는 별개입니다.
+- 속성값처럼, 그때 그때 변하는 값을 저장한 **지역 변수**는 **camelCase** 로 작성합니다. 여기서 말하는 속성은 Roblox 인스턴스의 `Value`와 같이 수시로 바뀌는 값으로, 앞단 "테이블의 속성" 항목에서 정의한 `PascalCase` 프로퍼티 규칙과는 별개입니다.
 
 ```lua
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

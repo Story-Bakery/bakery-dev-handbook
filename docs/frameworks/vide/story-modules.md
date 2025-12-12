@@ -120,4 +120,4 @@ end)
 
 - 컴포넌트 폴더 내 `*.story.luau` 파일로 배치합니다. 예: `Components/Button/Button.story.luau`.
 - Require 순서와 별칭, 빈 줄 규칙은 [require-style](../scripting/require-style.md)을 따릅니다.
-- Vide 호출, 테이블 리터럴/괄호 생략 규칙은 [code-style](../scripting/code-style.md)의 “Vide 호출 스타일”을 따릅니다.
+- Vide 호출, 테이블 리터럴/괄호 생략 규칙은 [code-style](../scripting/code-style.md)의 "Vide 호출 스타일"을 따릅니다.

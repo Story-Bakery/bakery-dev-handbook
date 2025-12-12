@@ -5,7 +5,7 @@ sidebar_label: Vide Overview
 
 # Vide Overview
 
-Vide 런타임을 사용할 때의 최소 규칙을 정리합니다. 호출 규칙은 [code-style](../scripting/code-style.md)의 “Vide 호출 스타일”을 그대로 따르며, videKit 컴포넌트에 특화된 구조는 [vide-kit](../scripting/vide-kit.md)를 참고하세요. 스토리 작성은 [vide-story-modules](./story-modules.md)를 참조합니다.
+Vide 런타임을 사용할 때의 최소 규칙을 정리합니다. 호출 규칙은 [code-style](../scripting/code-style.md)의 "Vide 호출 스타일"을 그대로 따르며, videKit 컴포넌트에 특화된 구조는 [vide-kit](../scripting/vide-kit.md)를 참고하세요. 스토리 작성은 [vide-story-modules](./story-modules.md)를 참조합니다.
 
 
 ## 불러오기와 별칭
